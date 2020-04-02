@@ -2,3 +2,4 @@
 用java实现fibonacci数列
 敏捷web开发作业2
 返回值BigInteger类型
+使用数组存储前2个数据的值，避免使用递归
